@@ -10,3 +10,12 @@ this is a paragraph inside the second heading.
 paragraph 4
 
 ![New Image](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+let a = 10
+```
+
+```
+$clear
+# to clear in bash
+```
