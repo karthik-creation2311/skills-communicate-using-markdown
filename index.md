@@ -8,3 +8,5 @@ this is a paragraph inside the second heading.
 
 #### Heading 3 using 4 hastag
 paragraph 4
+
+![New Image](https://octodex.github.com/images/yaktocat.png)
