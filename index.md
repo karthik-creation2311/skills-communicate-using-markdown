@@ -19,3 +19,9 @@ let a = 10
 $clear
 # to clear in bash
 ```
+
+- [x] new task 1
+- [x] new task 2
+- [x] new task 3
+- [ ] new task 4
+- [ ] new task 5
